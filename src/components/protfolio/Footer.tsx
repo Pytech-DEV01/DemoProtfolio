@@ -22,10 +22,7 @@ const Footer = () => {
             </div>
           </div>
 
-          {/* Made With Love */}
-          <div className="flex items-center gap-2 text-sm text-muted-foreground">
-            Made with <Heart className="w-4 h-4 text-red-500 fill-red-500 animate-pulse" /> by Vinay V
-          </div>
+          {/* ...existing code... */}
 
           {/* Scroll to Top */}
           <button
